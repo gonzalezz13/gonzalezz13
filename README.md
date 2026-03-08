@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Vicente
 
-**20 años | Estudiante de DAW | Valencia**
+**21 años | Estudiante de DAW | Valencia**
 
 Estoy terminando el Grado Superior en Desarrollo de Aplicaciones Web y este será mi espacio donde iré subiendo proyectos y pruebas mientras aprendo.
 
@@ -16,6 +16,9 @@ Actualmente estoy en el último curso de DAW, donde estoy aprendiendo desarrollo
 - 📍 Valencia, España
 
 ## 🛠️ Lo que estoy aprendiendo
+
+**Frameworks**
+Angular · Bootstrap
 
 **Frontend**  
 HTML · CSS · JavaScript 
