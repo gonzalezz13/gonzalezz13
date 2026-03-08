@@ -17,7 +17,7 @@ Actualmente estoy en el último curso de DAW, donde estoy aprendiendo desarrollo
 
 ## 🛠️ Lo que estoy aprendiendo
 
-**Frameworks**
+**Frameworks**  
 Angular · Bootstrap
 
 **Frontend**  
