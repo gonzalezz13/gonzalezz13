@@ -30,7 +30,7 @@ PHP · Node.js · Java
 MySQL 
 
 **Herramientas**  
-Git · GitHub · VS Code
+Git · GitHub · VS Code · Antigravity
 
 ## 🌱 Actualmente
 
