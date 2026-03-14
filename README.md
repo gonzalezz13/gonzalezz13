@@ -48,4 +48,4 @@ Si quieres contactar conmigo:
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzalezz13&theme=shadow-brown&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzalezz13&theme=shadow-brown&hide_border=true&card_width=1000&card_height=200&type=png)](https://git.io/streak-stats)
