@@ -48,9 +48,4 @@ Si quieres contactar conmigo:
 
 ---
 
-<div align="center">
-  
-  **En construcción... 🚧**  
-  _Este perfil irá creciendo con mis proyectos y cositas que vaya aprendiendo_
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzalezz13&theme=shadow-brown&hide_border=true)](https://git.io/streak-stats)
