@@ -45,6 +45,7 @@ Si quieres contactar conmigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-vagonzalezz13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vagonzalezz13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicente-arnal-gonz%C3%A1lez-633888374/)
+
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzalezz13&theme=shadow-brown&hide_border=true&card_width=1000&card_height=200&type=png)](https://git.io/streak-stats)
