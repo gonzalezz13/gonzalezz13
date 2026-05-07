@@ -18,13 +18,13 @@ Actualmente estoy en el último curso de DAW, donde estoy aprendiendo desarrollo
 ## 🛠️ Lo que estoy aprendiendo
 
 **Frameworks**  
-Angular · Bootstrap · .NET
+Angular · Bootstrap · SpringBoot
 
 **Frontend**  
-HTML · CSS · JavaScript 
+HTML · CSS · JavaScript/TypeScript
 
 **Backend**  
-C# · Python · Java
+Java
 
 **Bases de Datos**  
 MySQL 
