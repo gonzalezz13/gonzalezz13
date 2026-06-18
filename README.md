@@ -1,43 +1,44 @@
 # 👋 ¡Hola! Soy Vicente
 
-**21 años | Estudiante de DAW | Valencia**
+**21 años | Junior Full-Stack Developer | Valencia**
 
-Estoy terminando el Grado Superior en Desarrollo de Aplicaciones Web y este será mi espacio donde iré subiendo proyectos y pruebas mientras aprendo.
+He finalizado el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y este será el espacio donde compartiré proyectos, pruebas y mi evolución como desarrollador.
+
+Actualmente sigo ampliando conocimientos en desarrollo full-stack y construyendo proyectos para mejorar mis habilidades.
 
 ---
 
 ## 🎓 Sobre mí
 
-Actualmente estoy en el último curso de DAW, donde estoy aprendiendo desarrollo web tanto frontend como backend. Me gusta experimentar con código y ver cómo las cosas cobran vida en el navegador.
+Soy desarrollador web junior con formación en desarrollo frontend y backend.
 
-- 📚 Terminando el Grado Superior en DAW
-- 💡 Aprendiendo desarrollo web full-stack
-- 🚀 Empezando mi camino como desarrollador
+Me interesa crear aplicaciones funcionales, aprender nuevas tecnologías y seguir creciendo profesionalmente dentro del desarrollo de software.
+
+- 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
+- 💻 Interés en desarrollo full-stack
+- 🚀 Construyendo proyectos y mejorando habilidades
 - 📍 Valencia, España
 
-## 🛠️ Lo que estoy aprendiendo
-
-**Frameworks**  
-Angular · Bootstrap · SpringBoot
+## 🛠️ Tecnologías
 
 **Frontend**  
-HTML · CSS · JavaScript/TypeScript
+HTML · CSS · JavaScript · TypeScript · Angular · Bootstrap
 
 **Backend**  
-Java
+Java · Spring Boot
 
 **Bases de Datos**  
 MySQL 
 
 **Herramientas**  
-Git · GitHub · VS Code · Antigravity
+Git · GitHub · Sharepoint · TortoiseSVN · VS Code
 
 ## 🌱 Actualmente
 
-- Trabajando y creando mis primeros proyectos
-- Practicando frameworks
-- Explorando el desarrollo backend
-- Aprendiendo buenas prácticas de código
+- Construyendo proyectos personales
+- Mejorando mis conocimientos en Angular y Spring Boot
+- Aprendiendo arquitectura y buenas prácticas
+- Buscando oportunidades como desarrollador web
 
 ## 📫 Contacto
 
@@ -48,4 +49,4 @@ Si quieres contactar conmigo:
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzalezz13&theme=shadow-brown&hide_border=true&card_width=1000&card_height=200&type=png)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezz13&layout=compact)
