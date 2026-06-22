@@ -15,7 +15,7 @@ Soy desarrollador web junior con formación en desarrollo frontend y backend.
 Me interesa crear aplicaciones funcionales, aprender nuevas tecnologías y seguir creciendo profesionalmente dentro del desarrollo de software.
 
 - 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
-- 💻 Interés en desarrollo full-stack
+- 💻 Desarrollo frontend y backend con Angular, Java y Spring Boot
 - 🚀 Construyendo proyectos y mejorando habilidades
 - 📍 Valencia, España
 
@@ -31,7 +31,18 @@ Java · Spring Boot
 MySQL 
 
 **Herramientas**  
-Git · GitHub · Sharepoint · TortoiseSVN · VS Code
+Git · GitHub · SharePoint · TortoiseSVN · VS Code
+
+## 🚀 Proyectos destacados
+
+💈**Web para peluquería**
+
+Diseño y desarrollo de una página web moderna para una peluquería orientada a mejorar la presencia online del negocio.
+
+**Tecnologías:**
+Angular · HTML · CSS · JavaScript · TypeScript
+
+🔗 [Ver repositorio](https://github.com/gonzalezz13/peluqueria-youssef)
 
 ## 🌱 Actualmente
 
@@ -45,7 +56,7 @@ Git · GitHub · Sharepoint · TortoiseSVN · VS Code
 Si quieres contactar conmigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-vagonzalezz13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=vagonzalezz13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicente-arnal-gonz%C3%A1lez-633888374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicente-arnal-gonzález/)
 
 ---
 
