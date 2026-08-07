@@ -56,7 +56,4 @@ Si quieres contactar conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicentearnal/)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=gonzalezz13&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalezz13&theme=radical" width="49%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzalezz13&theme=radical)
