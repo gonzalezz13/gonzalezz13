@@ -56,7 +56,7 @@ Angular · HTML · CSS · JavaScript · TypeScript
 Si quieres contactar conmigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-vagonzalezz13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=vagonzalezz13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicente-arnal-gonzález/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicentearnal/)
 
 ---
 
