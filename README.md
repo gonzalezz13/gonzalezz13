@@ -1,56 +1,51 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=300&section=header&text=Vicente%20Arnal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer&descAlignY=55&descSize=20)
-# 👋 ¡Hola! Soy Vicente
-
-He finalizado el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y este será el espacio donde compartiré proyectos, pruebas y mi evolución como desarrollador.
-
-Actualmente sigo ampliando conocimientos en desarrollo full-stack y construyendo proyectos para mejorar mis habilidades.
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white)
-
----
+# ¡Hola! Soy Vicente Arnal 🚀
+### Junior Full-Stack Developer ⭐ 
 
 ## 🎓 Sobre mí
-
-Soy desarrollador web junior con formación en desarrollo frontend y backend.
-
-Me interesa crear aplicaciones funcionales, aprender nuevas tecnologías y seguir creciendo profesionalmente dentro del desarrollo de software.
-
-- 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
-- 💻 Desarrollo frontend y backend con Angular, Java y Spring Boot
-- 🚀 Construyendo proyectos y mejorando habilidades
-- 📍 Valencia, España
+- **Tengo 21 años y soy de Valencia, España**
+- Graduado en Desarrollo de Aplicaciones Web (DAW), con experiencia práctica
+- Diseñando y desarrollando mi propio producto: landing pages para negocios locales.
+- Aprendiendo nuevas tecnologías y reforzando las que ya domino
 
 ## 🛠️ Tecnologías
 
+**Lenguajes**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" />
+</p>
+
 **Frontend**  
-HTML · CSS · JavaScript · TypeScript · Angular · Bootstrap
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,sass,bootstrap&theme=dark" />
+</p>
 
 **Backend**  
-Java · Spring Boot
-
-**Bases de Datos**  
-MySQL 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" />
+</p>
 
 **Herramientas**  
-Git · GitHub · SharePoint · TortoiseSVN · VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm&theme=dark" />
+</p>
+
+*También trabajo con TortoiseSVN, SharePoint y Google Antigravity en entorno profesional (sin icono disponible).*
 
 ## 🚀 Proyectos destacados
 
-💈**Web para peluquería**
+💈**Web para peluquería** - *proyecto propio*
 
-Diseño y desarrollo de una página web moderna para una peluquería orientada a mejorar la presencia online del negocio.
+Diseño y desarrollo full-stack de una landing page para un negocio real, con diseño responsive y SEO básico implementado, pensada para vender este mismo servicio a otros negocios locales.
 
 **Tecnologías:**
 Angular · HTML · CSS · JavaScript · TypeScript
 
-🔗 [Ver repositorio](https://github.com/gonzalezz13/peluqueria-youssef)
+🔗 [Ver repositorio](https://github.com/gonzalezz13/peluqueria-youssef) · 🔗 [Ver demo en vivo](https://peluqueria-youssef.vercel.app)
 
 ## 🌱 Actualmente
 
-- Construyendo proyectos personales
-- Mejorando mis conocimientos en Angular y Spring Boot
-- Aprendiendo arquitectura y buenas prácticas
-- Buscando oportunidades como desarrollador web
+- 🔎 Buscando mi primera oportunidad como desarrollador web
+- 🏠 Disponible para trabajo presencial, remoto o híbrido
 
 ## 📫 Contacto
 
@@ -61,4 +56,5 @@ Si quieres contactar conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicentearnal/)
 
 ---
+![GitHub Stats](https://github-readme-stats-sigma-pink.vercel.app/api?username=gonzalezz13&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzalezz13&theme=radical)
