@@ -1,10 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=300&section=header&text=Vicente%20Arnal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 # 👋 ¡Hola! Soy Vicente
-
-**21 años | Junior Full-Stack Developer | Valencia**
 
 He finalizado el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y este será el espacio donde compartiré proyectos, pruebas y mi evolución como desarrollador.
 
 Actualmente sigo ampliando conocimientos en desarrollo full-stack y construyendo proyectos para mejorar mis habilidades.
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white)
 
 ---
 
@@ -56,8 +57,8 @@ Angular · HTML · CSS · JavaScript · TypeScript
 Si quieres contactar conmigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-vagonzalezz13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=vagonzalezz13@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Arnal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vicentearnal/)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezz13&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzalezz13&theme=radical)
