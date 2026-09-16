@@ -35,10 +35,10 @@
 
 💈**Web para peluquería** - *proyecto propio*
 
-Diseño y desarrollo full-stack de una landing page para un negocio real, con diseño responsive y SEO básico implementado, pensada para vender este mismo servicio a otros negocios locales.
+Diseño y desarrollo de una página web para un negocio real, con diseño responsive y SEO básico implementado, pensada para vender este mismo servicio a otros negocios locales.
 
 **Tecnologías:**
-Angular · HTML · CSS · JavaScript · TypeScript
+Angular · HTML · CSS · TypeScript
 
 🔗 [Ver repositorio](https://github.com/gonzalezz13/peluqueria-youssef) · 🔗 [Ver demo en vivo](https://peluqueria-youssef.vercel.app)
 
