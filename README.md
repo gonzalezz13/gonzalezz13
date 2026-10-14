@@ -1,11 +1,11 @@
 # ¡Hola! Soy Vicente Arnal 🚀
-### Junior Full-Stack Developer ⭐ 
+### Full-Stack Developer ⭐ 
 
 ## 🎓 Sobre mí
 - **Tengo 21 años y soy de Valencia, España**
-- Graduado en Desarrollo de Aplicaciones Web (DAW), con experiencia práctica
-- Diseñando y desarrollando mi propio producto: landing pages para negocios locales.
-- Aprendiendo nuevas tecnologías y reforzando las que ya domino
+- Graduado en Desarrollo de Aplicaciones Web (DAW), con experiencia práctica.
+- Desarrollando proyectos propios para poner en práctica mis conocimientos y seguir mejorando.
+- Ampliando mis conocimientos con nuevas tecnologías y consolidando las que ya conozco.
 
 ## 🛠️ Tecnologías
 
@@ -16,7 +16,7 @@
 
 **Frontend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,sass,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,bootstrap,tailwind&theme=dark" />
 </p>
 
 **Backend**  
@@ -26,7 +26,7 @@
 
 **Herramientas**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,vite&theme=dark" />
 </p>
 
 *También trabajo con TortoiseSVN, SharePoint y Google Antigravity en entorno profesional (sin icono disponible).*
@@ -44,8 +44,9 @@ Angular · HTML · CSS · TypeScript
 
 ## 🌱 Actualmente
 
-- 🔎 Buscando mi primera oportunidad como desarrollador web
-- 🏠 Disponible para trabajo presencial, remoto o híbrido
+- 💻 Enfocado en el desarrollo Full Stack y la mejora continua de mis habilidades.
+- 🚀 Desarrollando proyectos propios y explorando nuevas tecnologías.
+- 🏠 Abierto a oportunidades laborales presenciales, remotas o híbridas.
 
 ## 📫 Contacto
 
